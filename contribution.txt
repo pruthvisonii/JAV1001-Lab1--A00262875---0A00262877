@@ -1,0 +1,4 @@
+Contribution-
+
+1. Pruthvi Soni - I did 4 conversion and also pushed the project on github
+2. Sakshi Sheth - I wrote code of 3 calculations and the base of the program
