@@ -17,3 +17,9 @@ Sakshi Sheth  -    A00262877   -  Mobile Application Development
  7. Gram to Oun
  8. Oun to Gram
  9. F to C
+
+-- Contributions of Project ---
+ 
+ Pruthvi Soni - 5 , 6 , 7 , 8 , 9 
+ 
+ Sakshi Sheth - 1, 2, 3, 4
